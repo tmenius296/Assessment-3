@@ -1,0 +1,90 @@
+body {
+  background: #ddd;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 500px;
+  margin: 2rem auto;
+  font-family: "Open Sans", sans-serif;
+}
+
+nav {
+	border-bottom: 2px solid orange;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+
+a {
+	color: orange;
+}
+
+a:visited {
+	color: crimson;
+}
+
+
+input {
+	display: block;
+}
+
+img {
+	max-width: 300px;
+}
+
+.profileHeader1{
+	text-align: center;
+	font-size: 42pt;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+.mainBox{
+	width: 100%;
+	height: 120vw;
+	background-color: reb(209, 209, 243);
+	position: relative;
+	top: 0%;
+	border-style: double;
+	border-color: aquamarine;
+	border-width: 10px
+
+}
+
+.aboutMe{
+	font-size: 18;
+	font-weight: lighter;
+	font-style: italic
+}
+
+.pooh{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  border-radius: 50%;
+  width: 490px;
+  height: auto;
+
+}
+
+.skillsInterests{
+	font-size: 18;
+	font-weight: lighter;
+	font-style: italic
+}
+
+.contents{
+	color: rgb(39, 38, 38)
+}
+
+.buttons{
+	height: auto;
+	width: 75px;
+	background-color: yellow
+}
